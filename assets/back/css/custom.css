@@ -1,0 +1,9 @@
+.form-label-group input {
+    cursor: text !important;
+}
+
+.error-input {
+    color: rgb(208, 2, 2);
+    font-size: 11px;
+    margin: 0 0 0 12px;
+}
