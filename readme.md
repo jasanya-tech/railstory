@@ -16,7 +16,7 @@
 
 # **How to login as admin :** 
 
-1. add to url with "/admin" (http://localhost/portal-news/admin)
+1. add to url with "/admin" (http://localhost/railstory/admin)
 
 
 2. Email | password : admin@admin.com | password
