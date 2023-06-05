@@ -9,7 +9,7 @@
 
 # **Step Configuration**:
 
-1. create database with name db_blog
+1. create database with name db_railstory
 2. import file in folder database to phpmyadmin
 3. done
 
